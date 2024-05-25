@@ -30,7 +30,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Thanks to Codevolution for inspirational [video](https://www.youtube.com/watch?v=gBLro0UcwKw&t=4s&ab_channel=Codevolution).
+Thanks to Codevolution for inspirational [video](https://www.youtube.com/watch?v=25yY2RVRq_M&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI&index=33&ab_channel=Codevolution).
 
 ## 📝 License
 
